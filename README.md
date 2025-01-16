@@ -2,6 +2,8 @@
 
 🌎 A browser extension specially designed for Xiaohongshu (RedNote), automatically translating content into multiple languages.
 
+[Rednote auto translate in Chrome Web Store](https://chromewebstore.google.com/detail/jkngdckncbcofhgfaciefjmlnpldhaef)
+
 ## ✨ Key Features
 
 - 🌍 Support for 130+ languages
